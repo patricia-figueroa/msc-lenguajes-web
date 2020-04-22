@@ -32,9 +32,9 @@ Timer de 2 segundos
 <ol>
 <li>Registrarse en <a href="https://weatherstack.com/">WeatherStack</a>  es totalmente gratis.</li>
 <li>Una vez registrado los enviará a la Guía Rápida, la cual proporciona la información necesaria para obtener información del clima en tiempo real. Podrán visualizar la <strong>llave de acceso al API</strong> la cual es ua cadena de caracteres generada de manera aleatoria que será única para cada aplicación que la utilice. Esta se utilizará para autenticarse cuando se realicen peticiones a WeatherStack desde la aplicación, de tal manera que ésta permite enlazarse con el servidor de WewatherStack. Además, podrá observar los <strong>endpoints</strong> soportados por el API, los cuales proporcionan el acceso a distintos servicios proporcionados por WeatherStack, de manera gratuita solo se puede hacer uso de el endopoint <strong>/current</strong> para acceder al clima actual de una ubicación en específico.</li>
-<li>Probar el API obteniendo la temperatura actual del estado de Colima, para esto deberá ver el video adjunto a continuación.<br>
-<a href="http://www.youtube.com/watch?v=5NJunvgT600" title="Cómo utilizar el API de WeatherStack"><img src="http://img.youtube.com/vi/5NJunvgT600/0.jpg" alt=""></a></li>
+<li>Probar el API obteniendo la temperatura actual del estado de Colima, para esto deberá ver el video adjunto a continuación.</li>
 </ol>
+<p><a href="http://www.youtube.com/watch?v=5NJunvgT600" title="Cómo utilizar el API de WeatherStack"><img src="http://img.youtube.com/vi/5NJunvgT600/0.jpg" alt=""></a></p>
 <p>Para construir la primera parte de la aplicación meteorológica en Node.Js deberá ver la videoclase adjunta a continuación.</p>
 <p><a href="http://www.youtube.com/watch?v=Gq_mBd1hwzc" title="Aplicación Meteorológica (Parte 1) en Node.js"><img src="http://img.youtube.com/vi/Gq_mBd1hwzc/0.jpg" alt=""></a></p>
 
